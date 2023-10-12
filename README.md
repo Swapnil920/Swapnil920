@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there👋 Swapnil Sharma here!
 
-<!--
-**Swapnil920/Swapnil920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Currently I have done my Bachelor Degree in Information technology from <b> <a href="https://oistbpl.com/oct-bhopal/contact.php">Oriental College of technology </a> </b> </br>
+- 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate.</br>
 
-Here are some ideas to get you started:
+- 💡 Always open to collaborating on projects and innovative ideas. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## **📈 Stats**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Swapnil920&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil920&hide_border=true&theme=radical" />
+</p>
+<br>
+
+# 🔝 Most used languages
+
+<p align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapnil920&layout=compact&hide_border=true&theme=radical" />
+</p>
+
+
